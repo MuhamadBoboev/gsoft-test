@@ -240,7 +240,7 @@ input:-ms-input-placeholder {
   .header__search::after {
     position: absolute;
     content: "";
-    width: 115%;
+    width: 112%;
     height: 1px;
     top: 0;
     left: -20px;
